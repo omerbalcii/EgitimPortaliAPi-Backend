@@ -1,0 +1,15 @@
+C:\Users\omer\source\repos\EgitimPortali.APİ\PortalBusinessEngine\bin\Debug\netcoreapp3.1\PortalBusinessEngine.deps.json
+C:\Users\omer\source\repos\EgitimPortali.APİ\PortalBusinessEngine\bin\Debug\netcoreapp3.1\PortalBusinessEngine.dll
+C:\Users\omer\source\repos\EgitimPortali.APİ\PortalBusinessEngine\bin\Debug\netcoreapp3.1\PortalBusinessEngine.pdb
+C:\Users\omer\source\repos\EgitimPortali.APİ\PortalBusinessEngine\obj\Debug\netcoreapp3.1\PortalBusinessEngine.csproj.AssemblyReference.cache
+C:\Users\omer\source\repos\EgitimPortali.APİ\PortalBusinessEngine\obj\Debug\netcoreapp3.1\PortalBusinessEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omer\source\repos\EgitimPortali.APİ\PortalBusinessEngine\obj\Debug\netcoreapp3.1\PortalBusinessEngine.AssemblyInfoInputs.cache
+C:\Users\omer\source\repos\EgitimPortali.APİ\PortalBusinessEngine\obj\Debug\netcoreapp3.1\PortalBusinessEngine.AssemblyInfo.cs
+C:\Users\omer\source\repos\EgitimPortali.APİ\PortalBusinessEngine\obj\Debug\netcoreapp3.1\PortalBusinessEngine.csproj.CoreCompileInputs.cache
+C:\Users\omer\source\repos\EgitimPortali.APİ\PortalBusinessEngine\obj\Debug\netcoreapp3.1\PortalBusinessEngine.dll
+C:\Users\omer\source\repos\EgitimPortali.APİ\PortalBusinessEngine\obj\Debug\netcoreapp3.1\PortalBusinessEngine.pdb
+C:\Users\omer\source\repos\EgitimPortali.APİ\PortalBusinessEngine\bin\Debug\netcoreapp3.1\PortalCommon.dll
+C:\Users\omer\source\repos\EgitimPortali.APİ\PortalBusinessEngine\bin\Debug\netcoreapp3.1\PortalData.dll
+C:\Users\omer\source\repos\EgitimPortali.APİ\PortalBusinessEngine\bin\Debug\netcoreapp3.1\PortalCommon.pdb
+C:\Users\omer\source\repos\EgitimPortali.APİ\PortalBusinessEngine\bin\Debug\netcoreapp3.1\PortalData.pdb
+C:\Users\omer\source\repos\EgitimPortali.APİ\PortalBusinessEngine\obj\Debug\netcoreapp3.1\PortalBusinessEngine.csproj.CopyComplete

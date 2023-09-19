@@ -1,0 +1,10 @@
+C:\Users\omer\source\repos\EgitimPortali.APİ\PortalData\bin\Debug\netcoreapp3.1\PortalData.deps.json
+C:\Users\omer\source\repos\EgitimPortali.APİ\PortalData\bin\Debug\netcoreapp3.1\PortalData.dll
+C:\Users\omer\source\repos\EgitimPortali.APİ\PortalData\bin\Debug\netcoreapp3.1\PortalData.pdb
+C:\Users\omer\source\repos\EgitimPortali.APİ\PortalData\obj\Debug\netcoreapp3.1\PortalData.csproj.AssemblyReference.cache
+C:\Users\omer\source\repos\EgitimPortali.APİ\PortalData\obj\Debug\netcoreapp3.1\PortalData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omer\source\repos\EgitimPortali.APİ\PortalData\obj\Debug\netcoreapp3.1\PortalData.AssemblyInfoInputs.cache
+C:\Users\omer\source\repos\EgitimPortali.APİ\PortalData\obj\Debug\netcoreapp3.1\PortalData.AssemblyInfo.cs
+C:\Users\omer\source\repos\EgitimPortali.APİ\PortalData\obj\Debug\netcoreapp3.1\PortalData.csproj.CoreCompileInputs.cache
+C:\Users\omer\source\repos\EgitimPortali.APİ\PortalData\obj\Debug\netcoreapp3.1\PortalData.dll
+C:\Users\omer\source\repos\EgitimPortali.APİ\PortalData\obj\Debug\netcoreapp3.1\PortalData.pdb
